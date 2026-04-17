@@ -1,4 +1,4 @@
-# BEPE - Université de Technologie de Compiègne
+# BEPE - Laboratory Heudiasyc @ Université de Technologie de Compiègne
 
 Repository to make pubicly available relevant documents and projects developed during the BEPE-FAPESP project at the Laboratory Heudiasyc from the Université de Technologie de Compiègne
 
